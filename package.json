@@ -1,0 +1,21 @@
+{
+  "name": "todo",
+  "version": "0.0.0",
+  "scripts": {
+    "postinstall": "",
+    "preinstall": ""
+  },
+  "engines": {
+    "node": "8.11.4",
+    "npm": "6.8.0"
+  },
+  "private": true,
+  "dependencies": {
+    "core-js": "^2.5.4",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "googleapis": "^39.2.0",
+    "path": "^0.12.7",
+    "pg": "^7.11.0"
+  }
+}
